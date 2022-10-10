@@ -43,6 +43,7 @@ I'm a full-stack software developer striving to build software and tools that ma
 [![I went Skydiving! 🇿🇦](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I went Skydiving! 🇿🇦")](https://youtu.be/tjj59A06IhQ)
 [![Shark Cage Diving in Gansbaai! 🇿🇦](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "Shark Cage Diving in Gansbaai! 🇿🇦")](https://youtu.be/r3sRQqAuz2U)
 [![How To: Fire Photography + BLAZING FIRE NEWSPAPER PHOTOSHOOT](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "How To: Fire Photography + BLAZING FIRE NEWSPAPER PHOTOSHOOT")](https://youtu.be/ZXMa0hA7vKE)
+<!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCU5LQz6olsX-M9MrwyuD5bA?sub_confirmation=1)
 

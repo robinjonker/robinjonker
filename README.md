@@ -36,7 +36,7 @@ I'm a full-stack software developer striving to build software and tools that ma
 
 #
 
-## 📕 Top projects I've contributed to
+### 📕 My Projects
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
@@ -49,7 +49,7 @@ I'm a full-stack software developer striving to build software and tools that ma
 </p>
 
 <p align="left">
-  <a href="https://github.com/robinjonker/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/robinjonker?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 #

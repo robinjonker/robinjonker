@@ -71,7 +71,7 @@ I'm a full-stack software developer striving to build software and tools that ma
 
 ### 📊 Stats
 
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinjonker&show_icons=true&theme=gruvbox)
+![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=robinjonker&show_icons=true&theme=dracula)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=robinjonker&theme=gruvbox&border_radius=4.5) -->
 

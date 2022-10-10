@@ -6,7 +6,8 @@ I'm a full-stack software developer striving to build software and tools that ma
 
    <p align="left">
       <a href="https://www.linkedin.com/in/robinjonker11">
-         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> 
    </p>
 
 ---

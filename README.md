@@ -28,9 +28,7 @@ I'm a full-stack software developer striving to build software and tools that ma
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/mysql.svg" />
 <img align="left" alt="SSMS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/microsoftsqlserver.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/jira.svgg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/docker.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/microsoftazure.svgg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/amazonaws.svg" />
 
 <br />
